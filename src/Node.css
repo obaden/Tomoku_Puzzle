@@ -3,25 +3,25 @@
 }
 
 .topNode {
-  background-color: pink;
-  border-bottom: 1px solid pink;
+  background-color: rgb(199, 73, 58);
+  border-bottom: 1px solid rgb(199, 73, 58);
 }
 
 .bottomNode {
-  background-color: pink;
-  border-top: 1px solid pink;
+  background-color: rgb(199, 73, 58);
+  border-top: 1px solid rgb(199, 73, 58);
 }
 
 .leftNode {
-  background-color: yellow;
-  border-right: 1px solid yellow;
+  background-color: rgb(124, 212, 148);
+  border-right: 1px solid rgb(124, 212, 148);
 }
 
 .rightNode {
-  background-color: yellow;
-  border-left: 1px solid yellow;
+  background-color: rgb(124, 212, 148);
+  border-left: 1px solid rgb(124, 212, 148);
 }
 
 .square {
-  background-color: orange;
+  background-color: #ffbb3f;
 }

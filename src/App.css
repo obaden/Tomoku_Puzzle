@@ -6,7 +6,7 @@
 }
 
 button:disabled {
-  color: #949494;
+  background-color: #969696;
 }
 
 .contents {
@@ -19,7 +19,7 @@ button {
   height: 30px;
   width: 100px;
   margin: 5px;
-  background-color: darkblue;
+  background-color: #868686;
   font-weight: bold;
   font-size: 0.9em;
   color: white;
@@ -94,7 +94,7 @@ h2 {
   margin: 2px;
   width: 40px;
   height: 80px;
-  background-color: pink;
+  background-color: rgb(199, 73, 58);
   border: 1px solid black;
 }
 
@@ -102,7 +102,7 @@ h2 {
   margin: 2px;
   width: 80px;
   height: 40px;
-  background-color: yellow;
+  background-color: rgb(124, 212, 148);
   border: 1px solid black;
 }
 
@@ -110,6 +110,6 @@ h2 {
   margin: 2px;
   width: 40px;
   height: 40px;
-  background-color: orange;
+  background-color: #ffbb3f;
   border: 1px solid black;
 }
