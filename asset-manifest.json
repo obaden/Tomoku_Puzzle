@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tomoku_Puzzle/static/css/main.4c4ebaa2.chunk.css",
+    "main.js": "/Tomoku_Puzzle/static/js/main.e7f8958e.chunk.js",
+    "main.js.map": "/Tomoku_Puzzle/static/js/main.e7f8958e.chunk.js.map",
+    "runtime-main.js": "/Tomoku_Puzzle/static/js/runtime-main.882ca137.js",
+    "runtime-main.js.map": "/Tomoku_Puzzle/static/js/runtime-main.882ca137.js.map",
+    "static/js/2.db1afc7f.chunk.js": "/Tomoku_Puzzle/static/js/2.db1afc7f.chunk.js",
+    "static/js/2.db1afc7f.chunk.js.map": "/Tomoku_Puzzle/static/js/2.db1afc7f.chunk.js.map",
+    "index.html": "/Tomoku_Puzzle/index.html",
+    "precache-manifest.6191ff8a2367776ba0439acd77905533.js": "/Tomoku_Puzzle/precache-manifest.6191ff8a2367776ba0439acd77905533.js",
+    "service-worker.js": "/Tomoku_Puzzle/service-worker.js",
+    "static/css/main.4c4ebaa2.chunk.css.map": "/Tomoku_Puzzle/static/css/main.4c4ebaa2.chunk.css.map",
+    "static/js/2.db1afc7f.chunk.js.LICENSE.txt": "/Tomoku_Puzzle/static/js/2.db1afc7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.882ca137.js",
+    "static/js/2.db1afc7f.chunk.js",
+    "static/css/main.4c4ebaa2.chunk.css",
+    "static/js/main.e7f8958e.chunk.js"
+  ]
+}
